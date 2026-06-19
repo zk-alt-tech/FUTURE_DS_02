@@ -56,9 +56,6 @@ Retention Drivers
 
 Customer Lifetime Trends
 
-## Recommendations:
-PrADDDDDDDgbveibgwruweb
-
 ## Repositary Structure:
 Data and workings
 
